@@ -5,7 +5,7 @@ require 'poi/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "ruby-poi"
-  spec.version       = Ruby::Poi::VERSION
+  spec.version       = Poi::VERSION
   spec.authors       = ["Ægir Örn Símonarson"]
   spec.email         = ["agirorn@gmail.com"]
   spec.description   = %q{Ruby bridge for Apache POI}
